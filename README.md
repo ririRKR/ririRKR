@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Riley!
-Incoming EECS freshman @ UC Berkeley • Java | Python | Web Dev | Game Dev
+EECS freshman @ UC Berkeley •  Python | Java | Web Dev | Game Dev
 
-🚀 Interested in SWE, game development, CS + art, & AI w/ finance and healthcare
+🚀 Interested in AI + healthcare, SWE, and game development
 
 ## 📌 Featured Projects
 - [MB Academic Research Journal Website](https://github.com/Marlborough-School/mars) – HTML, CSS, Markdown
